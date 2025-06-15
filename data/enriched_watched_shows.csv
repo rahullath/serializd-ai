@@ -1,0 +1,480 @@
+Title,Status,Rating,Seasons,Page,TMDB_ID,TMDB_Title,Original_Title,Genres,Overview,First_Air_Date,Last_Air_Date,Number_of_Seasons,Number_of_Episodes,Episode_Runtime,Average_Runtime,Networks,Production_Countries,Languages,Original_Language,Popularity,Vote_Average,Vote_Count,Adult,Homepage,IMDB_ID,Created_By,Keywords,Cast,Crew
+One Piece,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Smiling Friends,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hacks,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Murderbot,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Andor,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Nirvanna the Band the Show,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Pitt,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+High Potential,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dope Thief,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Rehearsal,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ergo Proxy,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Boardwalk Empire,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+NANA,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Welcome to the N.H.K.,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Banana Fish,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Studio,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Junji Ito Maniac: Japanese Tales of the Macabre,Ended,,,1,203704,Junji Ito Maniac: Japanese Tales of the Macabre,伊藤潤二『マニアック』,"Animation, Mystery, Sci-Fi & Fantasy, Drama","From the mind of horror manga maestro Junji Ito comes a spine-tingling selection of some of his most bizarre, disturbing and terrifying tales.",2023-01-19,2023-01-19,1,12,[25],25.0,Netflix,Japan,ja,ja,17.7545,7.0,113,False,http://ji-anime.com,tt21856734,,"anthology, based on manga, demon, anime, terror, psychological, body horror, horror, thriller",,"Takeshi Yoshida, Shinobu Tagashira"
+Gen V,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Those About to Die,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The White Lotus,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Abbott Elementary,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+INVINCIBLE,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Severance,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+This World Can't Tear Me Down,N/A,,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mythic Quest,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Shōgun,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Detroiters,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+It's Always Sunny in Philadelphia,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Common Side Effects,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Daredevil: Born Again,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Zero Day,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Creature Commandos,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Watcher,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mayfair Witches,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Copenhagen Cowboy,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Blockbuster,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mo,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Man Vs Bee,Ended,,,2,197588,Man Vs Bee,Man Vs Bee,"Comedy, Family","A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",2022-06-24,2022-06-24,1,9,[11],11.0,Netflix,United Kingdom,en,en,10.3094,7.2,589,False,https://www.netflix.com/title/81222715,tt13640670,"Rowan Atkinson, Will Davies","slapstick comedy, house-sitting","Rowan Atkinson, Claudie Blakley, India Fowler","Will Davies, Chris Clark"
+Pantheon,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Kaleidoscope,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Rabbit Hole,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Black Bird,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Reboot,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Responder,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+jeen-yuhs: A Kanye Trilogy,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+BEEF,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Boys Presents: Diabolical,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Roar,N/A,,,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Wolf Like Me,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Bear,Returning Series,,,3,136315,The Bear,The Bear,"Drama, Comedy","Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",2022-06-23,2024-06-26,4,38,[],0.0,Hulu,United States of America,en,en,46.1411,8.198,1341,False,https://www.fxnetworks.com/shows/the-bear,tt14452776,Christopher Storer,"suicide, chicago, illinois, restaurant, family business , community, workplace, grief, chef, blunt, death of brother, aggressive, candid, small business, culinary arts, fine dining, intimate, audacious, comforting, compassionate, exuberant, tragic, vibrant","Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce, Abby Elliott, Matty Matheson, Liza Colón-Zayas","Rene Gube, Tyson Bidner, Cooper Wehde, Matty Matheson, Joanna Calo"
+Shrinking,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Call My Agent Bollywood,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Legend of Vox Machina,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Tear Along the Dotted Line,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Marvel's Hit-Monkey,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+House of Secrets: The Burari Deaths,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Billion Dollar Code,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Players,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dexter: New Blood,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Tatami Time Machine Blues,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Feels Like Ishq,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Interview with the Vampire,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Under the Banner of Heaven,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+American Gigolo,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ray,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Velma,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Vigil,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Time,Returning Series,,,3,68822,Time travels,Tidsrejsen,"Kids, Family, Sci-Fi & Fantasy","A teenage girl wish for her parents to get back together, when suddenly she meets a time traveling guy from the future. Together they try to change both the past and the feature - with small bumps on their way.",2014-12-01,2024-12-24,2,48,[25],25.0,"DR1, ARTE, DRTV",Denmark,da,da,5.1085,7.1,9,False,https://www.dr.dk/drtv/saeson/tidsrejsen_461962,tt3981388,"Poul Berg, Kaspar Munk, Mikkel Bak Sørensen","time travel, christmas","Frederik Thoft, Lærke Krabbe de Waal, Bebiane Ivalo Kreutzmann, Lise Baastrup, Michelle Bjørn-Andersen, Andreas Jebro, Emilie Ullerup, Miley Millias, Victor Madsen, Alexander Clement","Asser Bo Paludan, Kaspar Munk"
+We Own This City,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Naomi,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mr. Corman,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Heartstopper,N/A,,,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sonny Boy,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Winning Time: The Rise of the Lakers Dynasty,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+How I Met Your Father,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Panic,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Staircase,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Koala Man,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Poker Face,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+SPY x FAMILY,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dr. Brain,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Solos,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+DOTA: Dragon's Blood,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+1883,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+WeCrashed,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Irma Vep,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mumbai Diaries,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Book of Boba Fett,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mare of Easttown,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Pam & Tommy,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Tandav,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Curse,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Schulz Saves America,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+History of Swear Words,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Star Wars: Visions,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Chainsaw Man,N/A,,,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Offer,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+DAHMER - Monster: The Jeffrey Dahmer Story,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mismatched,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Kin,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Archive 81,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Yasuke,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Way of the Househusband,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Scenes from a Marriage,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Woman in the House Across the Street from the Girl in the Window,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Old Man,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Marvel's M.O.D.O.K.,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Scam 1992: The Harshad Mehta Story,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+How To with John Wilson,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dopesick,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Peacemaker,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Pachinko,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Alice in Borderland,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Haunting of Bly Manor,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Our Flag Means Death,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Gaslit,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Girl from Plainville,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Only Murders in the Building,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hellbound,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Afterparty,N/A,,,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hoops,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Trip,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Breathe: Into the Shadows,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Cyberpunk: Edgerunners,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Unsolved Mysteries,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Tokyo Revengers,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Curon,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Betaal,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Jeffrey Epstein: Filthy Rich,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ju-On: Origins,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+World's End Harem,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Paatal Lok,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Trial by Media,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Shrink Next Door,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Middleditch & Schwartz,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hasmukh,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Panchayat,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Never Have I Ever,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Outer Banks,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Tiger King,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Special OPS,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Last of Us,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Biohackers,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+All of Us Are Dead,N/A,,,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Rider,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Halston,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Feel Good,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Afsos,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Prince,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Trying,Returning Series,,,7,98177,Trying,Trying,Comedy,"All Nikki and Jason want is a baby—the one thing they can't have. So they decide to adopt. With their dysfunctional friends, screwball families, and chaotic lives, will the adoption panel agree that they're ready to be parents?",2020-05-01,2024-07-03,4,32,[],0.0,Apple TV+,United Kingdom,en,en,23.0619,7.657,108,False,https://tv.apple.com/show/umc.cmc.6muy4la7lj1omu5nci4bt2m66,tt10982034,Andy Wolton,"adoption, parenthood","Rafe Spall, Esther Smith, Scarlett Rayner, Cooper Turner","Chris Sussman, Andy Wolton, Jim O'Hanlon, Sam Pinnell, Chris Sussman"
+Mayor of Kingstown,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Solar Opposites,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ted Lasso,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+To Your Eternity,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Midnight Mass,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+DAVE,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Jamtara – Sabka Number Ayega,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Forgotten Army,Ended,,,7,96853,The Forgotten Army,The Forgotten Army - Azaadi Ke Liye,"Drama, Action & Adventure","The dynamic story of Lt. Sodhi and his daredevil band of men and women who fought a heroic battle for the independence of India as part of the Indian National Army which was forged out of British defeat in Singapore during WWII and led by the charismatic, indomitable Indian leader Netaji Subhash Chandra Bose.",2020-01-24,2020-01-24,1,5,[40],40.0,Prime Video,India,"en, id, hi",hi,5.3256,6.9,157,False,https://www.primevideo.com/detail/0NLS2PB87FWDT7STVNQKBEPTHD,tt10289938,"Kabir Khan, Heeraz Marfatia",,"TJ Bhanu, Rohit Chaudhary, Akhil Iyer, Sam Mohan, Amala Akkineni, Shruti Seth, Paloma Monnappa, Sunny Kaushal, Tom Ashley, Sharvari Wagh","Kabir Khan, Kabir Khan, Rajan Kapoor, Aditya Singh"
+High Fidelity,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Midnight Gospel,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Lupin,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Resident Alien,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hostel Daze,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Don't F**k with Cats: Hunting an Internet Killer,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+JUJUTSU KAISEN,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Peripheral,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Shantaram,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Reservation Dogs,N/A,,,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+House of the Dragon,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Giri/Haji,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Arcane,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dorohedoro,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Swagger,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Great,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Into the Night,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Foundation,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Jupiter's Legacy,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Squid Game,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Family Man,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Flight Attendant,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+TVF Inmates,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Criminal: UK,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Obi-Wan Kenobi,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+She-Hulk: Attorney at Law,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ms. Marvel,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Moon Knight,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+ZeroZeroZero,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Spy,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Modern Love,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ragnarok,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+What If...?,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Typewriter,N/A,,,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Bard of Blood,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Station Eleven,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Wu-Tang: An American Saga,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Sandman,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Office,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+1899,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Tokyo Vice,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Morning Show,Returning Series,,,9,90282,The Morning Show,The Morning Show,Drama,"A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",2019-11-01,2023-11-07,4,40,[],0.0,Apple TV+,United States of America,en,en,45.4943,7.769,785,False,https://tv.apple.com/show/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m,tt7203552,Jay Carson,"new york city, television producer, morning show, television broadcast, television network, tv host, tv news anchor, entertainment industry","Jennifer Aniston, Reese Witherspoon, Billy Crudup, Mark Duplass, Greta Lee, Nicole Beharie, Julianna Margulies, Nestor Carbonell, Karen Pittman, Jon Hamm","John Blair, Charlotte Stoudt, Mimi Leder, Michael Ellenberg, Lauren Neustadter"
+White Lines,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+I Am Not Okay with This,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Third Day,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Normal People,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Leila,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Primal,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Kota Factory,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Nine Perfect Strangers,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Vinland Saga,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Pentaverate,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Falcon and the Winter Soldier,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hawkeye,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+How to Sell Drugs Online (Fast),N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Criminal Justice,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Trailer Park Boys: The Animated Series,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Servant,N/A,,,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+For All Mankind,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Defending Jacob,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Toy Boy,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Queen's Gambit,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Delhi Crime,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Made in Heaven,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ramy,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Chernobyl,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Formula 1: Drive to Survive,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dracula,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+"Love, Death & Robots",N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Your Honor,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Locke & Key,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Undone,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Upload,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Four More Shots Please!,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Demon Slayer: Kimetsu no Yaiba,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Space Force,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Perry Mason,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Conversations with a Killer: The Ted Bundy Tapes,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Raised by Wolves,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Shadow and Bone,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Euphoria,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Other Two,N/A,,,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+WandaVision,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Russian Doll,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Loki,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Lord of the Rings: The Rings of Power,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Close Enough,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Cowboy Bebop,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mirzapur,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Plot Against America,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Guillermo del Toro's Cabinet of Curiosities,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+What We Do in the Shadows,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Patriot Act with Hasan Minhaj,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Cursed,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Spinning Out,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Mandalorian,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Lovecraft Country,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Righteous Gemstones,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Emily in Paris,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Living with Yourself,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sex Education,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+When They See Us,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ratched,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Messiah,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Narcos: Mexico,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Comicstaan,N/A,,,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+See,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+GHOUL,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Little America,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Bodyguard,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Watchmen,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Snowpiercer,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hunters,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Last Dance,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Doom Patrol,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+After Life,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sacred Games,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Chilling Adventures of Sabrina,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+You,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Persona,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Rain,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Elite,Ended,,,12,76669,Elite,Élite,"Crime, Mystery, Drama","When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",2018-10-05,2024-07-26,8,64,[],0.0,Netflix,Spain,es,es,60.8188,8.025,9238,False,https://www.netflix.com/title/80200942,tt7134908,"Darío Madrona, Carlos Montero","love triangle, jealousy, infidelity, seduction, menage a trois, friendship, murder, school, teen drama, brother brother relationship, gay theme, boys' love (bl)","Omar Ayuso, Valentina Zenere, André Lamoglia, Carmen Arrufat, Ander Puig, Nadia Al Saidi, Fernando Lindez, Mirela Balić, Gleb Abrosimov, Iván Mendes","Paloma Molina, Ruben Goldfarb, Jaime Vaca, Antonio Asensio Mosbah, Carlos Montero"
+Breathe,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+TVF Bachelors,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Boys,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+FLAMES,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Succession,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Titans,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Devilman Crybaby,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Umbrella Academy,N/A,,,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The End of the F***ing World,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Harley Quinn,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Big Mouth,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Yellowstone,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Warrior,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Maniac,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Tom Clancy's Jack Ryan,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+American Vandal,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Barry,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Haunting of Hill House,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Patrick Melrose,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Inside Edge,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sick Note,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Escape at Dannemora,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Wheel of Time,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Witcher,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+A.P. Bio,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Young Sheldon,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Blood Drive,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Black Lightning,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Atypical,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Money Heist,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Boruto: Naruto Next Generations,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Marvelous Mrs. Maisel,N/A,,,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dark,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sharp Objects,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Too Old to Die Young,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ozark,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Humorously Yours,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Bold Type,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Workin' Moms,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Handmaid's Tale,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The OA,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Riverdale,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+His Dark Materials,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Altered Carbon,Canceled,,,14,68421,Altered Carbon,Altered Carbon,"Sci-Fi & Fantasy, Drama","After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",2018-02-02,2020-02-27,2,18,[50],50.0,Netflix,United States of America,"en, es",en,23.2623,7.661,2039,False,https://www.netflix.com/title/80097140,tt2261227,Laeta Kalogridis,"sibling relationship, yakuza, biotechnology, virtual reality, investigation, detective story, distant future, cyberpunk, body-swap, consciousness, resistance fighter, alien world, neo-noir, human clone, cyber thriller, blade runner, loving, backstabbing","Anthony Mackie, Renée Elise Goldsberry, Chris Conner, Lela Loren, Simone Missick, Torben Liebrecht, Dina Shihabi","Rose Lam, Dana Goldberg, Johanna Lee, James Vanderbilt, Mike Medavoy"
+Dirk Gently's Holistic Detective Agency,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+MINDHUNTER,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Legion,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Great Indoors,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Man with a Plan,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Fleabag,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Quarry,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+13 Reasons Why,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Stranger Things,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Good Place,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Big Little Lies,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Night Of,N/A,,,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Detour,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+My Hero Academia,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Taboo,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Atlanta,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Crashing,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+ERASED,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Whose Line Is It Anyway?,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Baskets,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+American Crime Story,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+11.22.63,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Master of None,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Call My Agent!,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+One-Punch Man,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Expanse,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+F is for Family,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Narcos,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Last Kingdom,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Westworld,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+TVF Pitchers,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Lucifer,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Quantico,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ballers,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Supergirl,N/A,,,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Superstore,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+DC's Legends of Tomorrow,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mr. Robot,Ended,,,16,62560,Mr. Robot,Mr. Robot,"Crime, Drama","A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",2015-06-24,2019-12-22,4,45,[],0.0,USA Network,United States of America,en,en,50.8084,8.252,4861,False,https://www.usanetwork.com/mr-robot,tt4158110,Sam Esmail,"hacker, secret society, childhood trauma, psychological thriller, social anxiety, nature of reality","Rami Malek, Christian Slater, Carly Chaikin","Rami Malek, Kyle Bradstreet, Christian Slater, Steve Golin, Chad Hamilton"
+Marvel's The Defenders,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Impastor,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Marvel's Iron Fist,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Marvel's Luke Cage,Canceled,,,16,62126,Marvel's Luke Cage,Marvel's Luke Cage,"Drama, Sci-Fi & Fantasy, Action & Adventure, Crime","Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",2016-09-30,2018-06-22,2,26,"[46, 52, 54, 60]",53.0,Netflix,United States of America,en,en,43.4914,6.923,1861,False,https://www.disneyplus.com/series/luke-cage/1L458elR85KN,tt3322314,Cheo Hodari Coker,"new york city, superhero, based on comic, hero for hire, marvel cinematic universe (mcu), action adventure, black culture","Mike Colter, Alfre Woodard, Simone Missick, Theo Rossi, Mustafa Shakir","Jim Chory, Cheo Hodari Coker, Jeph Loeb, Stan Lee"
+Assassination Classroom,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Man in the High Castle,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Angie Tribeca,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Marvel's Daredevil,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Night Manager,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sense8,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Parasyte -the maxim-,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Terror in Resonance,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+BoJack Horseman,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+iZombie,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ping Pong the Animation,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Flash,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Rick and Morty,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Fargo,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Peaky Blinders,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Silicon Valley,N/A,,,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Better Call Saul,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Impractical Jokers,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Nathan for You,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Zach Stone Is Gonna Be Famous,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Leftovers,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mom,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Brooklyn Nine-Nine,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The 100,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Blacklist,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Bates Motel,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+True Detective,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Americans,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Utopia,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hunter x Hunter,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Naruto,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Vikings,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Danger 5,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dekalog,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Black Mirror,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Banshee,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Hannibal,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Awkward.,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+2 Broke Girls,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Marvel's Jessica Jones,N/A,,,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Suits,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Tatami Galaxy,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Penn & Teller: Fool Us,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Shameless,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Louie,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Outsourced,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Fullmetal Alchemist: Brotherhood,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Naruto Shippūden,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Code Geass: Lelouch of the Rebellion,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ben 10: Ultimate Alien,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Salad Fingers,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Monster,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Shark Tank,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sherlock,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Community,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Party Down,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mononoke,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Death Note,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+"Yes, Prime Minister",N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+True Blood,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Archer,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Paranoia Agent,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Parks and Recreation,N/A,,,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Premise,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ben 10: Alien Force,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Life & Times of Tim,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Pushing Daisies,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ben 10,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Raw,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Ugly Betty,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Arrested Development,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Yes Minister,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Curb Your Enthusiasm,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Trailer Park Boys,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Oz,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Superjail!,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Veep,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Flight of the Conchords,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Two and a Half Men,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The IT Crowd,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Freaks and Geeks,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Prison Break,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Jam,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+South Park,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Twin Peaks,N/A,,,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Fresh Prince of Bel-Air,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Friends,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Saturday Night Live,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Joey,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Wire,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Firefly,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Family Guy,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Attack on Titan,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Luther,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+House of Cards,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Modern Family,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Big Bang Theory,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Arrow,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Person of Interest,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Sons of Anarchy,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Dexter,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Seinfeld,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Game of Thrones,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Sopranos,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Breaking Bad,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Six Feet Under,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Mad Men,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Serial Experiments Lain,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Neon Genesis Evangelion,N/A,,,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Robot Chicken,N/A,,,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Futurama,N/A,,,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+The Simpsons,N/A,,,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A
+Avatar: The Last Airbender,N/A,,,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,N/A,0.0,N/A,N/A,N/A,N/A,0.0,0.0,0,False,N/A,N/A,N/A,N/A,N/A,N/A

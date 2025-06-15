@@ -1,0 +1,176 @@
+{
+  "summary": {
+    "total_shows_watched": 479,
+    "total_reviews_written": 0,
+    "analysis_date": "2025-06-15 17:13:49"
+  },
+  "genre_preferences": {
+    "Drama": {
+      "count": 8,
+      "percentage": 1.6701461377870561
+    },
+    "Sci-Fi & Fantasy": {
+      "count": 4,
+      "percentage": 0.8350730688935281
+    },
+    "Comedy": {
+      "count": 3,
+      "percentage": 0.6263048016701461
+    },
+    "Crime": {
+      "count": 3,
+      "percentage": 0.6263048016701461
+    },
+    "Mystery": {
+      "count": 2,
+      "percentage": 0.41753653444676403
+    },
+    "Family": {
+      "count": 2,
+      "percentage": 0.41753653444676403
+    },
+    "Action & Adventure": {
+      "count": 2,
+      "percentage": 0.41753653444676403
+    },
+    "Animation": {
+      "count": 1,
+      "percentage": 0.20876826722338201
+    },
+    "Kids": {
+      "count": 1,
+      "percentage": 0.20876826722338201
+    }
+  },
+  "rating_patterns": {},
+  "show_characteristics": {
+    "seasons": {
+      "average_seasons": 3.0,
+      "median_seasons": 2.0,
+      "prefers_long_series": "False",
+      "season_distribution": {
+        "4": 4,
+        "1": 3,
+        "2": 3,
+        "8": 1
+      }
+    },
+    "tmdb_ratings": {
+      "average_show_rating": 7.516818181818181,
+      "prefers_highly_rated": "True",
+      "rating_threshold": 7.05
+    },
+    "networks": {
+      "top_networks": {
+        "Netflix": 5,
+        "Apple TV+": 2,
+        "Hulu": 1,
+        "DR1": 1,
+        "ARTE": 1,
+        "DRTV": 1,
+        "Prime Video": 1,
+        "USA Network": 1
+      },
+      "total_networks": 8
+    },
+    "languages": {
+      "primary_language": "en",
+      "language_diversity": 5,
+      "language_distribution": {
+        "en": 7,
+        "ja": 1,
+        "da": 1,
+        "hi": 1,
+        "es": 1
+      }
+    }
+  },
+  "sentiment_analysis": {},
+  "show_clusters": {
+    "cluster_0": {
+      "size": 469,
+      "shows": [
+        "One Piece",
+        "Smiling Friends",
+        "Hacks",
+        "Murderbot",
+        "Andor",
+        "Nirvanna the Band the Show",
+        "The Pitt",
+        "High Potential",
+        "Dope Thief",
+        "The Rehearsal"
+      ],
+      "top_genres": {
+        "Drama": 1,
+        "Action & Adventure": 1
+      },
+      "avg_rating": 0.014712153518123668
+    },
+    "cluster_1": {
+      "size": 6,
+      "shows": [
+        "The Bear",
+        "Trying",
+        "The Morning Show",
+        "Elite",
+        "Altered Carbon",
+        "Mr. Robot"
+      ],
+      "top_genres": {
+        "Drama": 5,
+        "Comedy": 2,
+        "Crime": 2,
+        "Mystery": 1,
+        "Sci-Fi & Fantasy": 1
+      },
+      "avg_rating": 7.9270000000000005
+    },
+    "cluster_2": {
+      "size": 1,
+      "shows": [
+        "Junji Ito Maniac: Japanese Tales of the Macabre"
+      ],
+      "top_genres": {
+        "Animation": 1,
+        "Mystery": 1,
+        "Sci-Fi & Fantasy": 1,
+        "Drama": 1
+      },
+      "avg_rating": 7.0
+    },
+    "cluster_3": {
+      "size": 1,
+      "shows": [
+        "Marvel's Luke Cage"
+      ],
+      "top_genres": {
+        "Drama": 1,
+        "Sci-Fi & Fantasy": 1,
+        "Action & Adventure": 1,
+        "Crime": 1
+      },
+      "avg_rating": 6.923
+    },
+    "cluster_4": {
+      "size": 2,
+      "shows": [
+        "Man Vs Bee",
+        "Time"
+      ],
+      "top_genres": {
+        "Family": 2,
+        "Comedy": 1,
+        "Kids": 1,
+        "Sci-Fi & Fantasy": 1
+      },
+      "avg_rating": 7.15
+    }
+  },
+  "insights": [
+    "Your top 3 favorite genres are: Drama, Sci-Fi & Fantasy, Comedy",
+    "Drama makes up 1.7% of your watched shows",
+    "You tend to watch critically acclaimed shows",
+    "Your largest viewing pattern centers around Drama shows"
+  ]
+}
